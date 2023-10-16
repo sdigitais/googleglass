@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tudo sobre Google Glass </title>
+<style>
+body{ background-color: #dddddd;
+color::rgba(0,0,0,1);
+}
+div#interface{
+width: 900px;
+background-color: #ffffff;
+margin:-20px auto 0px auto;
+box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+padding: 10px; 
+}
+header#cabecalho{
+border-bottom: 1px #606060 solid;
+height: 150px;
+background-image:url("_imagens/glass-logo-peq.JPG");
+}
+
+nav#menu ul{
+list-style: none;
+text-transform: uppercase;
+position: absolute;
+top: 20px;
+left: 400px;
+}
+nav#menu li{
+display: inline-block;
+background-color:#dddddd;
+padding: 10px;
+margin: 2px;
+transition: background-color 1s;
+}
+nav#menu li:hover {
+background-color: #606060;}
+nav#menu h1{ display: none;
+}
+
+header#cabecalho-artigo h1{
+front-family: FonteLogo,sans-serif;
+front-size: 20pt;
+color:#606060;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+header#cabecalho-artigo h2{
+front-size: 13pt;
+color: #cecece;
+background-color: #ffffff;
+margin: 0px;
+}
+header#cabecalho-artigo h3{
+front-size: 12pt;
+color: #606060;
+}
+.direita{
+text-align: right;
+}
+footer#rodape{
+clear: both;
+border-top: 1px solid #606060;
+}
+footer#rodape  p{
+text-align: center;
+}
+ul#album-fotos{
+width: 700px;
+margin: 0 auto;
+padding: 50px;
+overflow: hidden;
+list-style: none;
+}
+ul#album-fotos li{
+float:left;
+width: 200px;
+height: 200px;
+margin: 10px;
+border: 5px solid white;
+background-color: #ffffff;
+box-shadow: 1px 1px 3px rgba(0,0,0,.4); 
+}
+ul#album-fotos li#foto01{
+background: url(`/_imagens/galeria-01.JPG`) no-repeat;
+}
+</style>
+</head>
+<body>
+<div id="interface">
+<header id="cabecalho">
+<hgroup>
+<h1>Google Glass<h1>
+<h2>A revolução do Google está chegando<h2>
+
+</hgroup>
+ [AQUI ENTRA UMA FOTO] 
+
+<nav id="menu">
+<h1>Menu Principal</h1>
+ <ul>
+<li> Home</li> 
+<li> Especificações</li> 
+<li> Fotos </li> 
+<li> Multimídia </li>
+<li> Fale conosco</li> 
+</ul>
+</nav>
+</header>
+<header id="cabecalho-artigo">
+<h3>Glass > Fotos</3> 
+<h1>Galeria de Imagens do Google Glass</h1> 
+<h2>por Gustavo Guanabara </h2>
+<h3 class="direita">Atualizado em 01/Maio/2013<h3> 
+</header>
+Veja na nossa galeria de fotos várias belas imagens que mostram algumas das principais características do Google Glass, como recursos e propriedades que estão impressionando o mundo inteiro. Basta passar o mouse sobre uma das fotos para ver uma versão ampliada e com uma breve descrição.</p>
+<ul id="album-fotos">
+<li id="foto01"><span>Agenda e lembretes</span></li>
+<li id="foto02"><span>Sergey Brin usando o Glass</span></li> 
+<li id="foto03"><span>Leve e compacto</span></li> 
+<li id="foto04"><span> Sensação de uma tela de 50"</span></li>
+<li id="foto05"><span> Vários tipos de lente</span></li> 
+<li id="foto05"><span> Informações importantes</span></li> 
+</ul>
+
+<footer id="rodape">
+<p> Copyright &copy 2013 - by Gustavo Guanabara</br>
+<a href="http://facebook.com/curosemvideo">Facebook </a>| 
+<a href="http://twitter.com/cursosemvideo">Twitter</a>
+</footer>
+ </p>
+</div></body></html>

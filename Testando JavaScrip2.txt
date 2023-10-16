@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Teste JavaScript</title>
+
+
+</head>
+<body>
+
+<h1>Acende a lâmpada</h1>
+<img src="_imagens/lampada-apagada.JPG"/>
+
+
+</body>
+</html>

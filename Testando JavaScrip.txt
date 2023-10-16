@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Teste JavaScriott</title>
+
+</head>
+<body>
+
+
+<h1> Testando JavaScript</h1>
+<script>
+
+alert("Olá, Mundo");
+
+
+</script>
+</body>
+
+</html>

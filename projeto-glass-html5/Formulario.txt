@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+</head>
+<body>
+Google Glass A revolução do Google está chegando [AQUI ENTRA UMA FOTO] Menu Principal - Home - Especificações - Fotos - Multimídia - Fale conosco Fale Conosco > Contato Formulário de Contato por Gustavo Guanabara Atualizado em 01/Maio/2013 
+<form>
+<fieldset><legend>Identificação do Usuário</legend> 
+Nome: 
+Senha:
+E-mail: 
+Sexo: 
+     - Masculino 
+     - Feminino 
+Data de Nascimento: </fieldset>
+
+<fieldset><legend>Endereço do Usuário</legend>
+Logradouro: 
+Número: 
+Estado: 
+Cidade:</fieldset>
+ 
+<fieldset><legend>Mensagem do Usuário</legend>
+Grau de Urgência: 
+Mensagem:
+</fieldset>
+
+<fieldset><legend> Quero um Google Glass</legend> 
+Gostaria de adquirir um Google Glass quando disponível 
+Cor: 
+Quantidade: 
+Preço Total: R$ 
+</fieldset>
+
+[BOTÃO ENVIAR] </form>
+
+ Copyright 2013 - by Gustavo Guanabara 
+Facebook | Twitter
+</body>
+</html>

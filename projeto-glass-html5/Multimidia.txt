@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Tudo sobre Google Glass </title>
+
+
+</head>
+<body>
+Google Glass A revolução do Google está chegando [AQUI ENTRA UMA FOTO] Menu Principal - Home - Especificações - Fotos - Multimídia - Fale conosco Glass > Multimídia Sons e Vídeos por Gustavo Guanabara Atualizado em 01/Maio/2013 Áudio e Vídeo [AQUI ENTRA UM VÍDEO] [AQUI ENTRA UM ÁUDIO] 
+<footer id="rodape">
+<p>Copyright &copy; 2013 - by Gustavo Guanabara <br/>
+<a href="http://facebook.com/cursosemvideo"target="blank">Facebook </a>|
+<a href="http://twitter.com/cursosemvideo"target="blank">Twitter</a></p>
+</footer>
+</body>
+</html>
